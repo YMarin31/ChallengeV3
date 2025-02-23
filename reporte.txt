@@ -1,0 +1,3 @@
+- Obtener los datos de la colección productos. GetProducts
+• Consultar y actualizar tu colección de precios especiales.  GetPriceS UpdatePriceS PostPriceS
+• Validar la existencia de usuarios en la colección de precios especiales para la pantalla Artículos  GetUssers
